@@ -26,9 +26,9 @@ This plugin has been created for a technical test for job offer.
 
 == Screenshots ==
 
-1. 
+1. POSTS
 ![stefanini-test](https://github.com/YanNerio/stefanini-test/blob/master/assets/1.png)
 
-2. 
-![stefanini-test](https://github.com/YanNerio/stefanini-test/blob/master/assets/1.png)
+2. LOGS
+![stefanini-test](https://github.com/YanNerio/stefanini-test/blob/master/assets/2.png)
 

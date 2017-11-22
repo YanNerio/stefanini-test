@@ -28,7 +28,7 @@ This plugin has been created for a technical test for job offer.
 
 1. 
 ![stefanini-test](https://raw.githubusercontent.com/YanNerio/stefanini-test/master/assets/1.png)
-(or jpg, jpeg, gif).
+
 2. This is the second screen shot
-![stefanini-test](https://raw.githubusercontent.com/YanNerio/stefanini-test/master/assets/1.png)
+![stefanini-test](https://raw.githubusercontent.com/YanNerio/stefanini-test/master/assets/2.png)
 
